@@ -30,7 +30,7 @@ class About extends Component {
                   <img
                     height="250px"
                     src="images/portfolio/animal-shelter/Matrix.png"
-                    alt="Avatar placeholder"
+                    alt="Avatar placehold"
                   />
                   <Icon
                     icon={pythonIcon}
