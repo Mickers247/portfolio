@@ -28,6 +28,7 @@ class Experience extends Component {
             </Badge>
           );
         });
+        var icon = <i className={work.icon}></i>
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -37,7 +38,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={icon}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
