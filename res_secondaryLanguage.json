@@ -1,28 +1,29 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hola! Perdóname porque el español es mi segundo idioma.",
+      "description": "👋 Me llamo Mick Ward. Soy un estudiante de ciencia de computadora en la Universidad de Dayton, and voy a graduar en Mayo 2022. Estoy interesado en un trabajo con desarrollo o un trabajo de la seguridad cibernética para aplicar mis habilidades que he aprendido en mis clases!",
+      "description2": "En UD, soy el presidente de La Asociación para la Maquinaria de Computación. Esta posición, consiste en organización de reuniones semanales, y la creación de la agenda. La contenta del club contiene desarrollo, seguridad cibernética, y todo entremedias. He servido como la presidencia de vóleibol para Red Scare, la sección de estudiantes para deportes en UD. Hemos planeado sorteos y otros incentivos para crear un ambiente eléctrico para las partidas. Competo en el equipo de seguridad cibernética para Dayton, en la Liga Nacional de Ciber. Competemos en dos torneos anuales.",
+      "description3": "En mi tiempo libre, disfruto jugando deportes con amigos, y a mi me gusta mucho los videojuegos. Enviarme un correo a wardc11@udayton.edu, y disfruta mi porfolio!",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre yo",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencias"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Matrix Police",
+        "startDate": "2021",
+        "description": "Matrix Police es la sección de Matrix Pointe Software que yo trabajé la más. Es parte de su software que agiliza el proceso de justicia penal. ¡Estaba desarrollando en un equipo de cuarenta desarrolladores, estaba escribiendo código que está usando en el mundo actual! He podido aprender muchos instrumentos nuevos, y he ganado experiencia con React y TypeScript. Mi código fue revisado por desarrolladores talentosas, y a mí me enseñaban prácticas de código que voy a usar en todo de mi carrera profesional.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/Matrix.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
