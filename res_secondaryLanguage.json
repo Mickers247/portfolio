@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hola! Perdóname porque el español es mi segundo idioma.",
-      "description": "👋 Me llamo Mick Ward. Soy un estudiante de ciencia de computadora en la Universidad de Dayton, and voy a graduar en Mayo 2022. Estoy interesado en un trabajo con desarrollo o un trabajo de la seguridad cibernética para aplicar mis habilidades que he aprendido en mis clases!",
+      "description": "👋 Me llamo Mick Ward. Soy un estudiante de ciencia de computadora en la Universidad de Dayton, y me voy a graduar en Mayo 2022. Estoy interesado en un trabajo con desarrollo o un trabajo de la seguridad cibernética para aplicar mis habilidades que he aprendido en mis clases!",
       "description2": "En UD, soy el presidente de La Asociación para la Maquinaria de Computación. Esta posición, consiste en organización de reuniones semanales, y la creación de la agenda. La contenta del club contiene desarrollo, seguridad cibernética, y todo entremedias. He servido como la presidencia de vóleibol para Red Scare, la sección de estudiantes para deportes en UD. Hemos planeado sorteos y otros incentivos para crear un ambiente eléctrico para las partidas. Competo en el equipo de seguridad cibernética para Dayton, en la Liga Nacional de Ciber. Competemos en dos torneos anuales.",
       "description3": "En mi tiempo libre, disfruto jugando deportes con amigos, y a mi me gusta mucho los videojuegos. Enviarme un correo a wardc11@udayton.edu, y disfruta mi porfolio!",
       "section_name": {
@@ -36,81 +36,102 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Facebook Mini",
+        "startDate": "2021",
+        "description": "Es posible que este proyecto no se vea muy espectacular en el front-end, pero este clon de Facebook fue desarrollado por mi socio y yo en nuestra Clase de Desarrollo de Aplicaciones Seguras. En esta clase, la interfaz pasó a un segundo plano, para que nos concentremos en hacer que el sitio web sea completamente seguro. En la clase, desarrollamos un conocimiento profundo sobre las formas en que los sitios web son atacados y lo usamos para desarrollar aplicaciones desde una mentalidad de seguridad. ¡No dude en seguir el enlace al repositorio para leer todos los principios de seguridad que se aplican a nuestro sitio de redes sociales para que sea seguro!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/registrationdemo.png",
+          "images/portfolio/photography/Post.png",
+          "images/portfolio/photography/adminaccessonly.png"
         ],
-        "url": "https://github.com",
+        "url": "https://bitbucket.org/secad-s21-team1/secad-s21-team1-project/src/master/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-php-plain",
+            "name": "PHP"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Actualizaciones de Texto de Covid",
+        "startDate": "2020",
+        "description": "Este es un proyecto personal que creé para mí y mis amigos en la Universidad de Dayton. Nuestra Universidad tenía un sitio web que proporcionaría actualizaciones diarias sobre casos de covid en el campus. Sin embargo, este sitio web se actualizaría en momentos aparentemente aleatorios, por lo que creé un script que verificaría cuándo se actualizaba el sitio web y luego enviaría mensajes de texto a una lista de personas con la información.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/updates.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Mickers247/Covid-Updates/blob/main/README.md",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Matrix Pointe Software",
+        "title": "Full Stack Developer Intern",
+        "years": "05.2021 - 08.2021",
+        "icon": "fab fa-react experience-icon",
         "mainTech": [
-          "Angular 8/9/10"
+          "React con TypeScript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "TypeScript",
+          "SQL"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Flyer News",
+        "title": "Administrador de Web",
+        "years": "08.2019 - Present",
+        "icon": "fab fa-wordpress experience-icon",
         "mainTech": [
-          "Angular 7/8"
+          "WordPress"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "WordPress",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Ingram Micro",
+        "title": "Analisto de datos",
+        "years": "05.2019 - 08-2019",
+        "icon": "fab fa-python experience-icon",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Excel"
+        ]
+      },
+      {
+        "company": "Universidad de Dayton",
+        "title": "Computer Science Major",
+        "years": "08.2018 - Present",
+        "icon": "fas fa-graduation-cap experience-icon",
+        "mainTech": [
+          "Estudiante"
+        ],
+        "technologies": [
+          "Java",
+          "Python",
+          "GoLang",
+          "PHP",
+          "C++",
+          "NodeJS",
+          "SQL"
         ]
       }
     ]
