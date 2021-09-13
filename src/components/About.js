@@ -29,8 +29,8 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src="images/portfolio/animal-shelter/myProfile3.jpg"
-                    alt="Avatar placehold"
+                    src="images/portfolio/animal-shelter/myProfile3.JPG"
+                    alt="Avatar placeholder"
                   />
                   <Icon
                     icon={pythonIcon}
