@@ -37,7 +37,7 @@
       },
       {
         "title": "Mini Facebook",
-        "startDate": "2021",
+        "startDate": "2020",
         "description": "This project may not look very spectacular on the front end, but this Facebook clone was developed by me and my partner in our Secure Application Development Class. This class had the frontend take a backseat, in order for us to focus on making the website completely secure. In the class, we built a deep understanding about the ways in which websites are attacked, and used this to develop applications from a security mindset. Feel free to follow the link to the repository to read about all the security principles that are applied to our social media site to make it secure!",
         "images": [
           "images/portfolio/photography/registrationdemo.png",
@@ -53,6 +53,29 @@
           {
             "class": "devicon-mysql-plain",
             "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Block Party",
+        "startDate": "2021",
+        "description": "This is my team's project that we created for our Capstone I class. We were tasked with making a messeneger application from scratch, and putting in features such as private messages, group chats, and many others we came up with ourselves. Our group ended up receiving a certificate for having the best project!",
+        "images": [
+          "images/portfolio/block-party/HomeScreen.png"
+        ],
+        "url": "https://bitbucket.org/cps490f21-team2/cps490-project-team2/src/master/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "mongoDB"
           }
         ]
       },

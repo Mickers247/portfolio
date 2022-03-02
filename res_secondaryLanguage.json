@@ -57,6 +57,29 @@
         ]
       },
       {
+        "title": "Block Party",
+        "startDate": "2021",
+        "description": "This is my team's project that we created for our Capstone I class. We were tasked with making a messeneger application from scratch, and putting in features such as private messages, group chats, and many others we came up with ourselves. Our group ended up receiving a certificate for having the best project!",
+        "images": [
+          "images/portfolio/block-party/HomeScreen.png"
+        ],
+        "url": "https://bitbucket.org/cps490f21-team2/cps490-project-team2/src/master/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "mongoDB"
+          }
+        ]
+      },
+      {
         "title": "Actualizaciones de Texto de Covid",
         "startDate": "2020",
         "description": "Este es un proyecto personal que creé para mí y mis amigos en la Universidad de Dayton. Nuestra Universidad tenía un sitio web que proporcionaría actualizaciones diarias sobre casos de covid en el campus. Sin embargo, este sitio web se actualizaría en momentos aparentemente aleatorios, por lo que creé un script que verificaría cuándo se actualizaba el sitio web y luego enviaría mensajes de texto a una lista de personas con la información.",
